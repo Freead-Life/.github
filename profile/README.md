@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](./profile/logo.svg)
+![logo](logo.svg)
 
 # Freead Life 字由跳阅
 
