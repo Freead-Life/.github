@@ -18,14 +18,26 @@ An intelligent typography platform for people with dyslexia, ADHD, and other neu
 
 ## Web Application — https://freead.life
 
-- Paste or upload text, get optimized reading layout instantly
+- Quick trial mode — try it instantly, no sign-up required
 - Supports TXT, DOCX, PDF, EPUB, and images (with OCR)
-- Export to PDF / Markdown
+- Fullscreen reading view
+- Custom display settings: font, size, line height, letter spacing, word spacing, background color, randomized sizing
+
 
 ## WeChat Mini-Program 微信小程序
 
-- Scan to open — no install needed
-- Mobile-first reading experience
+- Multiple input methods:
+  - Text input, file upload, photo / image import
+
+- Reading tools:
+  - Save, bookmarks, highlights & notes
+  - Auto-reading modes
+  - Multiple background color
+
+- ADHD-specific features:
+  - Randomized font size & color for attention stimulation
+  - Focus mode, cursor-guided reading
+
 
 ## FastAPI
 
