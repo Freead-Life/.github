@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace with the logo once uploaded: ![logo](./profile/logo.svg) -->
+![logo](./profile/logo.svg)
 
 # Freead Life 字由跳阅
 
